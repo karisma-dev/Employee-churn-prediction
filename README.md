@@ -1,1 +1,1 @@
-# Employee-churn-prediction
+# Employee-churn-analytics
